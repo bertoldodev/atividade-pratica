@@ -7,5 +7,15 @@ h1{
     padding: 6px;
     box-shadow: 5px 5px 5px rgb(46, 21, 80);
 }
+a{
+    text-decoration:dashed;
+
+}
+.profissoes{
+    margin: 6px;
+    box-shadow: 1px 1px 5px rgb(46, 21, 80);
+    padding: 62px;
+}
+
 
 
